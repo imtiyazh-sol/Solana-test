@@ -6,7 +6,6 @@ import {
   PublicKey,
   SystemProgram,
   Transaction,
-  Connection,
 } from "@solana/web3.js";
 import { FC, FormEvent, useState, useEffect } from "react";
 import { toast } from "react-toastify";
